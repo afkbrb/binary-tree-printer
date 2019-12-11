@@ -7,6 +7,10 @@
     <groupId>com.github.afkbrb</groupId>
     <artifactId>binary-tree-printer</artifactId>
     <version>1.0.0</version>
+    <name>binary-tree-printer</name>
+    <description>Print binary tree in extremely small area</description>
+    <url>https://github.com/afkbrb/binary-tree-printer</url>
+
     <dependencies>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
@@ -57,6 +61,7 @@
                 <version>2.10.2</version>
                 <configuration>
                     <aggregate>true</aggregate>
+                    <locale>es</locale>
                 </configuration>
                 <executions>
                     <execution>
