@@ -12,7 +12,7 @@ The tree-visualizer did help me a lot when I'was trying to solve some tree-relat
 
 - convert a level order array (leetcode-style or typical) to a binary tree
 - print a binary tree in extremely small area by calculating the position of each node dynamically
-- print any Classes in addition to Integer
+- print any Class in addition to Integer
 
 ## Usage
 
